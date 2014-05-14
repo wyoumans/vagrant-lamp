@@ -27,3 +27,5 @@ $headers .= 'From: Vagrant <vagrant@test.com>' . "\r\n";
 
 // Mail it
 $result = mail($to, $subject, $message, $headers);
+
+echo '<h1>Test Email Sent</h1>';
