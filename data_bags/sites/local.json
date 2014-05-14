@@ -2,7 +2,7 @@
     "id": "local",
     "host": "local.dev",
     "aliases": [
-        "www.local.dev", 
+        "www.local.dev",
         "test.com",
         "www.test.com"
     ]
